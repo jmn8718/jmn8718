@@ -1,4 +1,8 @@
-### Hi there 👋
+# Software Engineer at @Criptan.
+
+Working from 🏡 Seoul South Korea 🇰🇷
+
+Previously worked at @auth0 @bitholla @Famoco @beeva @THREELABS-Inc
 
 <!--
 **jmn8718/jmn8718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
