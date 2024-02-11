@@ -6,8 +6,8 @@
 
 - 🏡 Working remote from South Korea 🇰🇷 Seoul/Incheon
 - 🔭 I’m currently working on Criptan, building lego blocks to offer crypto services and financial services
-- 🌱 I’m currently learning (or at least trying) web3
-- 🤔 On my free time, trying to build some side projects with serverless or nestjs
+- 🌱 I’m currently learning (or at least trying) web3 & go
+- 🤔 On my free time, trying to build some side projects to learn
 
 ### 🛠️ Languages and Tools
 <div>
